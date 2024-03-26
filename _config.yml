@@ -1,15 +1,15 @@
 # Configurations
 title:            Jekyll Gitbook
 longtitle:        Jekyll Gitbook
-author:           Kwon Booyeon
-email:            qndusrnjs@gmail.com
+author:           kwonbooyeon
+email:            qndusrnjsw@gmail.com
 description: >
-  note blog 
+  Build Jekyll site with the GitBook style.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://kwonbooyeon.github.io'
+url:              'https://sighingnow.github.io'
 baseurl:          '/jekyll-gitbook'
 rss:              RSS
 
