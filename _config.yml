@@ -2,7 +2,7 @@
 title:               letbooby =world=
 tagline:             'welcome to letboobuworld'
 description:         'test'
-url:                 http://kwonbooyeon.github.io
+url:                 'http://kwonbooyeon.github.io'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
