@@ -2,7 +2,7 @@
 title:               letboobu =world=
 tagline:             'A Jekyll theme'
 description:         'theme test'
-url:                 'http://kwonbooyeon.github.io'
+url:                 'http://test.com'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
