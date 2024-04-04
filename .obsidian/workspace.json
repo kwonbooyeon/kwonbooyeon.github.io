@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "d22ae32545f6d1fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f846b50f67cf04f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "821ea9115788bc4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/design/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e15a662ac89fed7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "def9411e392abd84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c763a4048d0f51e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dec91d699ce8195e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "363b305bc8bc333e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af7a5d53b6fe275e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f989077659ba224f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03d7d5170903ffd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_pages/design/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36a122ca83174983",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_pages/design/test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11c2b805ea99c17d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c3035e558610da6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_pages/design/test.md"
+              }
+            }
+          },
+          {
+            "id": "7012a6e98e1c2fe3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4c763a4048d0f51e",
+  "lastOpenFiles": [
+    "_pages/design/draft.md",
+    "_pages/design/test.md",
+    "_pages/about.md",
+    "README.md",
+    "assets/gitbook/fonts/fontawesome/fontawesome-webfont.woff",
+    "assets/gitbook/fonts/fontawesome/fontawesome-webfont.woff2",
+    "assets/gitbook/fonts/fontawesome/fontawesome-webfont.ttf",
+    "assets/gitbook/fonts/fontawesome/fontawesome-webfont.svg",
+    "assets/gitbook/fonts/fontawesome/FontAwesome.otf",
+    "assets/gitbook/fonts/fontawesome/fontawesome-webfont.eot",
+    "assets/gitbook/rouge/tulip.css",
+    "assets/gitbook/rouge/pastie.css",
+    "assets/gitbook/rouge/thankful_eyes.css",
+    "assets/gitbook/rouge/monokai_sublime.css",
+    "assets/gitbook/rouge/monokai.css",
+    "assets/gitbook/images/apple-touch-icon-precomposed-152.png",
+    "assets/dinosaur.gif",
+    "_posts/tetete.md",
+    "_posts/jekyll-gitbook tip/README.md",
+    "_posts/jekyll-gitbook tip/2023-12-12-footnotes.md",
+    "_posts/jekyll-gitbook tip/2023-10-14-math-latex.md",
+    "_posts/jekyll-gitbook tip/2023-08-31-mermaid.md",
+    "_posts/jekyll-gitbook tip/2022-06-30-tips_warnings_dangers.md",
+    "_posts/jekyll-gitbook tip/2022-06-26-wide_tables.md",
+    "_posts/jekyll-gitbook tip/2022-05-24-page_cover.md",
+    "_posts/jekyll-gitbook tip/2021-08-10-toc.md",
+    "_posts/jekyll-gitbook tip/2019-04-29-license.md",
+    "_posts/jekyll-gitbook tip/2019-04-28-howto.md",
+    "_posts/jekyll-gitbook tip/2019-04-27-why.md",
+    "_pages/contact.md",
+    "Welcome.md"
+  ]
+}
