@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/design/test.md",
+                "file": "_posts/tetete.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/design/test.md",
+                "file": "_posts/tetete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_pages/design/test.md",
+                "file": "_posts/tetete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_pages/design/test.md"
+                "file": "_posts/tetete.md"
               }
             }
           },
@@ -154,10 +154,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4c763a4048d0f51e",
+  "active": "821ea9115788bc4d",
   "lastOpenFiles": [
-    "_pages/design/draft.md",
+    "_posts/jekyll-gitbook tip/README.md",
+    "_posts/jekyll-gitbook tip/2023-12-12-footnotes.md",
+    "_posts/tetete.md",
     "_pages/design/test.md",
+    "_posts/jekyll-gitbook tip/2019-04-27-why.md",
+    "_posts/jekyll-gitbook tip/2019-04-28-howto.md",
+    "_posts/jekyll-gitbook tip/2019-04-29-license.md",
+    "_pages/design/draft.md",
     "_pages/about.md",
     "README.md",
     "assets/gitbook/fonts/fontawesome/fontawesome-webfont.woff",
@@ -173,18 +179,12 @@
     "assets/gitbook/rouge/monokai.css",
     "assets/gitbook/images/apple-touch-icon-precomposed-152.png",
     "assets/dinosaur.gif",
-    "_posts/tetete.md",
-    "_posts/jekyll-gitbook tip/README.md",
-    "_posts/jekyll-gitbook tip/2023-12-12-footnotes.md",
     "_posts/jekyll-gitbook tip/2023-10-14-math-latex.md",
     "_posts/jekyll-gitbook tip/2023-08-31-mermaid.md",
     "_posts/jekyll-gitbook tip/2022-06-30-tips_warnings_dangers.md",
     "_posts/jekyll-gitbook tip/2022-06-26-wide_tables.md",
     "_posts/jekyll-gitbook tip/2022-05-24-page_cover.md",
     "_posts/jekyll-gitbook tip/2021-08-10-toc.md",
-    "_posts/jekyll-gitbook tip/2019-04-29-license.md",
-    "_posts/jekyll-gitbook tip/2019-04-28-howto.md",
-    "_posts/jekyll-gitbook tip/2019-04-27-why.md",
     "_pages/contact.md",
     "Welcome.md"
   ]
